@@ -3,7 +3,7 @@
 A Cisco Packet Tracer lab where 3 routers were connected in a line topology
 and configured to learn routes automatically using **RIP v2**.
 
-![Topology Diagram](topology-diagram.png)
+![Topology Diagram](topology-diagram-v2.png)
 
 ## Topology
 
